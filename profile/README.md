@@ -9,9 +9,14 @@ Our open source projects are a testament to our commitment to quality, transpare
 
 ## About ZERODOTFIVE
 
-ZERODOTFIVE is a trusted cloud consulting company and recognized AWS Partner. 
+ZERODOTFIVE is a trusted cloud consulting company founded in 2018, based in Hamburg and recognized AWS Partner. 
 We leverage cutting-edge technologies to deliver scalable, secure, and efficient solutions.  
 Visit our website: [www.zerodotfive.com](https://www.zerodotfive.com)
+
+## Our additional products
+
+- **[Dynamic Horse](https://dynamichorse.de/):** SwiftUI, Hardware Sensor, Cloud Solution, AWS Backend https://apps.apple.com/us/app/dynamic-horse/id1463757826
+- **[Marathon Guide](https://apps.apple.com/us/app/marathon-guide/id6446417998):** Upcoming project, SwiftUI, GCP & AWS Backend
 
 ## Our Open Source Projects
 
