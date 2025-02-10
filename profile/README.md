@@ -2,11 +2,13 @@
 
 [![AWS Partner](https://img.shields.io/badge/AWS-Partner-blue?logo=amazon-aws)](https://aws.amazon.com/partners/)
 
-At **ZERODOTFIVE Hamburg GmbH**, we are passionate about building innovative cloud solutions and empowering businesses with our software development and consulting expertise. Our open-source projects are a testament to our commitment to quality, transparency, and community collaboration.
+At **ZERODOTFIVE Hamburg GmbH**, we are passionate about building innovative cloud solutions and empowering businesses with our software development and consulting expertise. 
+Our open-source projects are a testament to our commitment to quality, transparency, and community collaboration.
 
 ## About ZERODOTFIVE
 
-ZERODOTFIVE is a trusted cloud consulting company founded in 2018, based in Hamburg and recognized as an **AWS Partner**. We leverage cutting-edge technologies to deliver scalable, secure, and efficient solutions.
+ZERODOTFIVE is a trusted cloud consulting company founded in 2018, based in Hamburg and recognized as an **AWS Partner**. 
+We leverage cutting-edge technologies to deliver scalable, secure, and efficient solutions.
 
 ### **Technical Advisor Expertise**
 We act as **strategic technology advisors**, helping businesses navigate complex technical challenges. Our expertise spans:
@@ -19,7 +21,8 @@ We act as **strategic technology advisors**, helping businesses navigate complex
 ### **Product Development**
 In addition to consulting, we offer **product development services** in the areas of **mobile applications**, **cloud solutions** and **embedded IT solutions**. 
 Our expertise includes:
-- **iOS app development** .
+- **Cloud landing zones, automation, cost-optimized and effective solutions**
+- **iOS app development**
 - **Embedded systems and IoT solutions** low-power solutions and real-time data processing.
 - **End-to-end product design** from prototyping to production, ensuring quality and scalability.
 
