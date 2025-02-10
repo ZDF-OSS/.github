@@ -2,20 +2,36 @@
 
 [![AWS Partner](https://img.shields.io/badge/AWS-Partner-blue?logo=amazon-aws)](https://aws.amazon.com/partners/)
 
-Welcome to ZERODOTFIVE Hamburg GmbH Open Source repository. 
-
-At **ZERODOTFIVE**, we are passionate about building innovative cloud solutions and empowering businesses with our software development and consulting expertise. 
-Our open source projects are a testament to our commitment to quality, transparency, and community collaboration.
+At **ZERODOTFIVE Hamburg GmbH**, we are passionate about building innovative cloud solutions and empowering businesses with our software development and consulting expertise. Our open-source projects are a testament to our commitment to quality, transparency, and community collaboration.
 
 ## About ZERODOTFIVE
 
-ZERODOTFIVE is a trusted cloud consulting company founded in 2018, based in Hamburg and recognized AWS Partner. 
-We leverage cutting-edge technologies to deliver scalable, secure, and efficient solutions.  
+ZERODOTFIVE is a trusted cloud consulting company founded in 2018, based in Hamburg and recognized as an **AWS Partner**. We leverage cutting-edge technologies to deliver scalable, secure, and efficient solutions.
+
+### **Technical Advisor Expertise**
+We act as **strategic technology advisors**, helping businesses navigate complex technical challenges. Our expertise spans:
+- **Cloud Architecture & Scalability** – Designing and optimizing cloud infrastructures that support business growth.
+- **Security & Compliance** – Implementing best practices to safeguard data and ensure regulatory compliance.
+- **DevOps & Automation** – Enhancing development workflows with CI/CD pipelines and infrastructure as code.
+- **AI & Data Engineering** – Leveraging machine learning and big data solutions to drive innovation.
+- **Software Development Best Practices** – Providing guidance on modern software architectures, frameworks, and methodologies.
+
+### **Product Development**
+In addition to consulting, we offer **product development services** in the areas of **mobile applications**, **cloud solutions** and **embedded IT solutions**. 
+Our expertise includes:
+- **iOS app development** .
+- **Embedded systems and IoT solutions** low-power solutions and real-time data processing.
+- **End-to-end product design** from prototyping to production, ensuring quality and scalability.
+
+We empower organizations with the **knowledge, tools, and strategies** needed to build future-proof technology solutions.
+
 Visit our website: [www.zerodotfive.com](https://www.zerodotfive.com)
 
-## Our additional products
+## Our Additional Products
 
-- **[Dynamic Horse](https://dynamichorse.de/):** SwiftUI, Hardware Sensor, Cloud Solution, AWS Backend https://apps.apple.com/us/app/dynamic-horse/id1463757826
+- **[Dynamic Horse](https://dynamichorse.de/):** SwiftUI, Hardware Sensor, Cloud Solution, AWS Backend  
+  [Download on the App Store](https://apps.apple.com/us/app/dynamic-horse/id1463757826)
+
 - **[Marathon Guide](https://apps.apple.com/us/app/marathon-guide/id6446417998):** Upcoming project, SwiftUI, GCP & AWS Backend
 
 ## Our Open Source Projects
@@ -27,34 +43,13 @@ This repository hosts a curated collection of projects that reflect our core val
 
 ### Featured Projects
 
-- **[Project AWS Cleaner CDK integration example](https://github.com/ZDF-OSS/cdk-aws-cleaner-example):** This project showcases the usage of the AWS CDK Auto-Deletion Construct to automate the cleanup of AWS CloudFormation stacks.
-- **[Project AWS Cleaner CDK construct](https://github.com/ZDF-OSS/cdk-aws-cleaner):** AWS CDK Auto-Deletion Construct: Automate CloudFormation stack removal after a set time.
-- **[Projekt AWS WAFv2 with ChatGPT](https://github.com/ZDF-OSS/cdk-aws-wafv2-geofence-lib)**: Add an extra layer of security to protect your services from common attacks.
+- **[Project AWS Cleaner CDK integration example](https://github.com/ZDF-OSS/cdk-aws-cleaner-example):** Showcasing the usage of the AWS CDK Auto-Deletion Construct to automate the cleanup of AWS CloudFormation stacks.
+- **[Project AWS Cleaner CDK construct](https://github.com/ZDF-OSS/cdk-aws-cleaner):** Automating CloudFormation stack removal after a set time.
+- **[Projekt AWS WAFv2 with ChatGPT](https://github.com/ZDF-OSS/cdk-aws-wafv2-geofence-lib):** Adding an extra layer of security to protect services from common attacks.
 
 ## AWS Partner Status
 
-We are proud to be an AWS Partner. Our partnership demonstrates our expertise in leveraging AWS services to build robust and scalable solutions. This status is a mark of our commitment to innovation and operational excellence.
+We are proud to be an **AWS Partner**. Our partnership demonstrates our expertise in leveraging AWS services to build robust and scalable solutions. This status is a mark of our commitment to **innovation and operational excellence**.
 
 [Learn more about the AWS Partner Program](https://aws.amazon.com/partners/)
 
-## Contributing
-
-We invite you to help improve our projects! Whether you’re fixing bugs, adding new features, or improving documentation, your contribution is welcome. Please review our [Contribution Guidelines](.github/CONTRIBUTING.md) for more details.
-
-## Code of Conduct
-
-Our community is built on respect, transparency, and collaboration. Please read our [Code of Conduct](.github/CODE_OF_CONDUCT.md) before contributing to ensure a welcoming environment for everyone.
-
-## Getting Help
-
-If you run into any issues or have questions:
-- Check our [Issue Template](.github/ISSUE_TEMPLATE.md) when opening a new issue.
-- Feel free to open a new issue if your concern isn’t addressed.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Please see the LICENSE file for more information.
-
-## Contact
-
-For additional details or inquiries, visit our [website](https://www.zerodotfive.com) or reach out via email at [kontakt@zerodotfive.com](mailto:info@zerodotfive.com).
